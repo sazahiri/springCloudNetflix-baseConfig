@@ -1,0 +1,17 @@
+statuses/*
+target
+.DS_Store
+~$*
+.classpath
+.project
+.settings
+reports/*
+atlassian-ide-plugin.xml
+*.iml
+*.ipr
+*.iws
+*.ids
+.idea/*
+/bin
+xauth-test.properties
+sitestream-test.properties
